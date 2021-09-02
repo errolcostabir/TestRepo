@@ -1,4 +1,0 @@
-Remote file
-Change1 – commit with message as “Change1 in RemoteFile”
-Change2 – commit with message as “Change2 in RemoteFile”
-change 3
